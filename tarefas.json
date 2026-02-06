@@ -1,14 +1,9 @@
 {
   "tarefas": [
     {
-      "id": "ad73",
-      "tarefa": "Limpar quarto",
+      "id": "8091",
+      "tarefa": "Limpar casa",
       "prioridade": "alta"
-    },
-    {
-      "id": "12fb",
-      "tarefa": "Limpar o microondas",
-      "prioridade": "Alta"
     }
   ]
 }
